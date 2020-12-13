@@ -13,7 +13,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
-or <a href="mailto:grondie@gmail.com><b>email</b></a> me.
+or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
@@ -33,7 +33,7 @@ or <a href="mailto:grondie@gmail.com><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/joaommendonca1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="HackerRank"></a>
-<a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LeetCode"></a>
+<a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/HackerRank-HackerRank-green" alt="HackerRank"></a>
+<a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LeetCode"></a>
 
 </div>

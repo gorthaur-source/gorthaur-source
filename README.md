@@ -33,7 +33,7 @@ or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/joaommendonca1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/HackerRank-HackerRank-green" alt="HackerRank"></a>
+<a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/hackerrank-%231877F2.svg?&style=flat-square&logo=hackerrank&logoColor=white" alt="LeetCode"></a>
 <a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%231877F2.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 </div>

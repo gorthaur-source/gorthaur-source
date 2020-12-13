@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h2>
 </div>
 
 <div align="center" width="50">
@@ -34,6 +34,6 @@ or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/joaommendonca1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/HackerRank-HackerRank-green" alt="HackerRank"></a>
-<a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LeetCode"></a>
+<a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%231877F2.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 </div>

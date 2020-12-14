@@ -12,7 +12,7 @@
 You have finally discovered my Github profile. <br> Consult my skill stack <a href="https://github.com/gorthaur-source/gorthaur-source/blob/main/technicalStack.md"><b>here</b></a>. 
  </br>
 <br>Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
-or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
+or <a href="mailto:gorthaur.source@gmail.com"><b>email</b></a> me.
 
 <br><p>You can also visit my <a href="https://gorthaur-source.github.io"><b>resume page</b></a> which is under construction.</p></br>
 

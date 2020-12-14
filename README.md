@@ -14,7 +14,7 @@ You have finally discovered my Github profile. <br> Consult my skill stack <a hr
 <br>Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
 or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
 
-<br><p>You can also visit my <a href="https://gorthaur-source.github.io"><b>resume page</b>resume page </a> which is under construction.</p></br>
+<br><p>You can also visit my <a href="https://gorthaur-source.github.io"><b>resume page</b></a> which is under construction.</p></br>
 
 <i>Happy Coding!</i> 😊
 

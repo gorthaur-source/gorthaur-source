@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-You have finally discovered my Github profile. <br> Consult my skill stack <a href="https://github.com/gorthaur-source/gorthaur-source/blob/main/technicalStack.md"><b>here</b></a>.
+You have finally discovered my Github profile. <p><br> Consult my skill stack <a href="https://github.com/gorthaur-source/gorthaur-source/blob/main/technicalStack.md"><b>here</b></a>. </p>
  </br>
 Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
 or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.

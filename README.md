@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-You have finally discovered my Github profile. <p><br> Consult my skill stack <a href="https://github.com/gorthaur-source/gorthaur-source/blob/main/technicalStack.md"><b>here</b></a>. </p>
+You have finally discovered my Github profile. <br> Consult my skill stack <a href="https://github.com/gorthaur-source/gorthaur-source/blob/main/technicalStack.md"><b>here</b></a>. 
  </br>
-Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
+<br>Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
 or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
 
 <p>You can also visit my resume page which is under construction <a href="https://gorthaur-source.github.io"><b>here</b></a>.</p>

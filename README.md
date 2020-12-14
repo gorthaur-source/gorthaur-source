@@ -14,6 +14,7 @@ You have finally discovered my Github profile. <br>
  <br>
 Ask me anything <a href="https://github.com/gorthaur-source/gorthaur-source/issues/new"><b>here</b></a><br>
 or <a href="mailto:grondie@gmail.com"><b>email</b></a> me.
+You can also visit my resume page which is under construction <a href="https://gorthaur-source.github.io"><b>here</b></a>
 
 <i>Happy Coding!</i> 😊
 

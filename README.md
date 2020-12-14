@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/zYbJiSC.gif" alt="Welcome!" width="500" height="350"/>
+<img src="https://i.imgur.com/zYbJiSC.gif" alt="Welcome!" width="500"/>
 
 </div>
 

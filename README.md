@@ -31,7 +31,7 @@ or <a href="mailto:gorthaur.source@gmail.com"><b>email</b></a> me.
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgorthaur-source&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<i>Follow me around the web:</i><br>
+<p><i>Follow me around the web:</i><br></p>
 <a href="https://www.linkedin.com/in/joaommendonca1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/polarity56" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%23187F2.svg?&style=flat-square&logo=hackerrank&logoColor=white" alt="LeetCode"></a>
 <a href="https://leetcode.com/Gorthaur5/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%231877F2.svg?&style=flat-square&logo=leetcode&logoColor=white&color=black" alt="LeetCode"></a>
